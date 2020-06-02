@@ -1,7 +1,7 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "82aeeb04597452c287da475e03739831",
+  "assets/AssetManifest.json": "f61e402bcadf5045f1f8558562e6c94f",
 "assets/assets/208.JPG": "c10188eaf81310257acc6e7d916440c6",
 "assets/assets/209.JPG": "a01841a0e92c4dfef2f0434d5afb70f2",
 "assets/assets/219.JPG": "9ceddf1a5bec8b2d6b6bdd1ec831e520",
@@ -27,11 +27,31 @@ const RESOURCES = {
 "assets/assets/tBalloons/214.jpg": "d850d3ff6deec600ea8aeb5ccbdc0acc",
 "assets/assets/tBalloons/215.jpg": "dfd75ce7641bb26081fc2f6a8a0dda72",
 "assets/assets/tBalloons/216.jpg": "0ad41c2737ede4bb2cba36350205453f",
+"assets/assets/tBalloons/219.JPG": "9ceddf1a5bec8b2d6b6bdd1ec831e520",
+"assets/assets/tBalloons/220.JPG": "06e16e677b5519bb6d9d4c55e702a7ad",
 "assets/assets/tBalloons/answers%2520%25E2%2580%2594%2520%25D0%25BA%25D0%25BE%25D0%25BF%25D0%25B8%25D1%258F.txt": "08e8c1b71e2cec2927b4087a467d8349",
 "assets/assets/tBalloons/answers.txt": "77969a3093959365efe21b307d785a0d",
 "assets/assets/tBalloons/blue.jpg": "301a4ce33eebf3779c76464d3235e602",
 "assets/assets/tBalloons/green.jpg": "05384cdf12ad1c6b8c44f1968a232325",
+"assets/assets/TRClown/201.jpg": "191aaeecbf644108c3220ac941c14a72",
+"assets/assets/TRClown/202.jpg": "f7aedc588e15e6c077490a1efc012040",
+"assets/assets/TRClown/203.jpg": "893e17935b4bddb36ec2f214bbdcf92c",
+"assets/assets/TRClown/204.jpg": "23c4d44d7bbd720d68ea57ecb6fa3d33",
+"assets/assets/TRClown/205.jpg": "491008eba89575b18bc32f7bebc45d51",
+"assets/assets/TRClown/206.jpg": "bf4b0df32e41f1f6c3f3e4ec4f53f4ff",
+"assets/assets/TRClown/207.jpg": "5fb204e70cf98963f5108c879442af8e",
+"assets/assets/TRClown/208.jpg": "0cf765d2034a94204a1692fdee097212",
+"assets/assets/TRClown/209.jpg": "3039796012997722553ed7c21ca46166",
+"assets/assets/TRClown/210.jpg": "32c7d8db86fe1696376d3027b8c1a79a",
+"assets/assets/TRClown/211.jpg": "398e805e7e497b947ece42f22c1f3809",
+"assets/assets/TRClown/212.jpg": "1fdcb5e2bd37cda68690e742512b2b9e",
+"assets/assets/TRClown/213.jpg": "471332fd58947f02d9fdd67c1057056f",
+"assets/assets/TRClown/214.jpg": "bfb53d54ac0c4686039426769a4e6be3",
+"assets/assets/TRClown/215.jpg": "84429094be8489349cdfda19bc82e9ba",
+"assets/assets/TRClown/216.jpg": "61814cad5ce97af7b9c13d54fad601b9",
 "assets/assets/TRClown/answers.txt": "0a1610297bdb16c6b8bb60bca574de33",
+"assets/assets/TRClown/blue.jpg": "fd64e707c6ea0ecdaf436eb17b500594",
+"assets/assets/TRClown/green.jpg": "10f34774456595a88d9fe23f0a8d549c",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/LICENSE": "c1984cc05c12a1dedbf6148468240b23",
@@ -41,7 +61,8 @@ const RESOURCES = {
 "index.html": "12dd7a0c6472ff5a970a36c088e97362",
 "/": "12dd7a0c6472ff5a970a36c088e97362",
 "main.dart.js": "11099d499ccf02287c8f96524883af97",
-"manifest.json": "cdfbb64b1a1e17eb7f7854c6eb33a60b"
+"manifest.json": "cdfbb64b1a1e17eb7f7854c6eb33a60b",
+"web.zip": "4da298faeb7f3b38da63dc9431fa895b"
 };
 
 self.addEventListener('activate', function (event) {
