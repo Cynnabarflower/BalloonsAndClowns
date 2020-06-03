@@ -10,7 +10,7 @@ const RESOURCES = {
 "assets/assets/clown.png": "f75d315b10c57008ea7ba7cbab3f429c",
 "assets/assets/correct.png": "0b429231db8f2801637ef42a100a1310",
 "assets/assets/cup.png": "cf0e066ec9be5f6005749776942a0e06",
-"assets/assets/plus.png": "e31eccf170d90232b52d5337783e7a71",
+"assets/assets/plus.png": "8972d7d310197a164353f6c543e8d629",
 "assets/assets/tBalloons/201.jpg": "30085f9b2d27a7d18e18afd9bb3c9491",
 "assets/assets/tBalloons/202.jpg": "174334a38c5318996829a87309930cf8",
 "assets/assets/tBalloons/203.jpg": "00b064799dd3250dbeadb92ea07e51b3",
@@ -60,9 +60,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "index.html": "12dd7a0c6472ff5a970a36c088e97362",
 "/": "12dd7a0c6472ff5a970a36c088e97362",
-"main.dart.js": "11099d499ccf02287c8f96524883af97",
-"manifest.json": "cdfbb64b1a1e17eb7f7854c6eb33a60b",
-"web.zip": "4da298faeb7f3b38da63dc9431fa895b"
+"main.dart.js": "58a9ab79e7e00eb0fd07941f5bc79a1d",
+"manifest.json": "cdfbb64b1a1e17eb7f7854c6eb33a60b"
 };
 
 self.addEventListener('activate', function (event) {

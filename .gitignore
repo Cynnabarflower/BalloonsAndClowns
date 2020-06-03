@@ -1,0 +1,14 @@
+
+
+# Project exclude paths
+/.dart_tool/
+/build/esys_flutter_share/
+/build/flutter_assets/
+/build/flutter_share/
+/build/kotlin/
+/build/path_provider/
+/build/path_provider_macos/
+/build/permission_handler/
+/build/shared_preferences/
+/build/shared_preferences_macos/
+/build/shared_preferences_web/
